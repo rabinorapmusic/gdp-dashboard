@@ -1,2 +1,2 @@
 streamlit
-gTTSstreamlit run streamlit_app.py
+gTTS
